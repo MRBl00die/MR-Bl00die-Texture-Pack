@@ -2,7 +2,10 @@
 Update: 4/12/2021
 
 ESP: Wenas, Bienvenido a mi Texture Pack, Creado por Mi, Este texture pack Cuenta con Nuevas Actualizacion en Abril del 2021.
-Tienes que ir a releases Para descargar los texture packs
+
+Tienes que ir a https://github.com/MRBl00die/MR-Bl00die-Texture-Pack/releases/ Para descargar los texture packs.
+
+Que tiene de Nuevo?
 - Nuevos Assets
 - Nuevo Injector de Texturas en alta calidad
 - Nuevos diseños de Armas
@@ -14,7 +17,10 @@ https://youtu.be/39j_GWdw5ws?t=76 1:16
 
 
 ENG: Hi, Welcome to my Texture Pack, Created by me, This Texture Pack has New Updates in April 2021.
-You need to go to releases to download the texture packs.
+
+You need to go to https://github.com/MRBl00die/MR-Bl00die-Texture-Pack/releases/ to download the texture packs.
+
+What is new?
 - New Assets
 - New Quality Texture Pack injection
 - New Weapons Design
@@ -23,5 +29,3 @@ You need to go to releases to download the texture packs.
 
 For those who do not know how to use the new Injector that puts the textures in high quality and improved you can see this tutorial from here:
 https://youtu.be/39j_GWdw5ws?t=76 1:16
-
-You can go to https://github.com/MRBl00die/MR-Bl00die-Texture-Pack/releases/ For looking more versions.
