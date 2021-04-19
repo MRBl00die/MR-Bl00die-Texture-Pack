@@ -7,6 +7,7 @@ Tienes que ir a https://github.com/MRBl00die/MR-Bl00die-Texture-Pack/releases/ P
 
 Que tiene de Nuevo?
 - Nuevos Assets
+- Arreglos
 - Nuevo Injector de Texturas en alta calidad
 - Nuevos diseños de Armas
 - Nueva Mira mas comoda
@@ -22,6 +23,7 @@ You need to go to https://github.com/MRBl00die/MR-Bl00die-Texture-Pack/releases/
 
 What is new?
 - New Assets
+- Bug Fixes
 - New Quality Texture Pack injection
 - New Weapons Design
 - New Crosshair
