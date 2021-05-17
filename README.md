@@ -25,3 +25,10 @@ What is new?
 
 For those who do not know how to use the new Injector that puts the textures in high quality and improved you can see this tutorial from here:
 https://youtu.be/39j_GWdw5ws?t=76 1:16
+
+
+Credits Modify:
+
+Isaack_GT / Textures Png and HD Textures
+MR Bl00die / SFX and Sound effects
+MauryDev / Materials and Inject textures
